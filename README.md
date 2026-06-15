@@ -95,7 +95,7 @@ AI AutoML Security & Fraud Analyzer
 ### Clone Repository
 
 ```bash
-git clone https://github.com/your-username/AI-AutoML-Security-Fraud-Analyzer.git
+git clone https:https://github.com/vijaydevverse/AI-Cyber-Threat-Detection-System
 cd AI-AutoML-Security-Fraud-Analyzer
 ```
 
